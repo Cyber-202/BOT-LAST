@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Make the bot return google's audio file via text",
 	commandCategory: "media",
-	usages: "[ru/en/ko/ja/tl] [Text]",
+	usages: "[ru/en/ko/bn/tl] [Text]",
 	cooldowns: 5,
 	dependencies: {
 		"path": "",
